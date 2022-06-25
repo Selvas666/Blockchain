@@ -1,0 +1,47 @@
+# Project exclude paths
+/.gradle/
+/Blockchain/task/build/
+/Blockchain/task/out/
+/Blockchain/task/out/production/classes/
+/Problems/Convert to bytes/out/
+/Problems/Convert to bytes/out/production/classes/
+/Problems/Count words/out/
+/Problems/Count words/out/production/classes/
+/Problems/Find a value's index/out/
+/Problems/Find a value's index/out/production/classes/
+/Problems/Find all mondays/out/
+/Problems/Find all mondays/out/production/classes/
+/Problems/Implementing the EntrySet method/out/
+/Problems/Implementing the EntrySet method/out/production/classes/
+/Problems/Laptop factory/out/
+/Problems/Laptop factory/out/production/classes/
+/Problems/Motor static factory/out/
+/Problems/Motor static factory/out/production/classes/
+/Problems/Phone Book/out/
+/Problems/Phone Book/out/production/classes/
+/Problems/Print content/out/
+/Problems/Print content/out/production/classes/
+/Problems/Removing/out/
+/Problems/Removing/out/production/classes/
+/Problems/Reverse input text/out/
+/Problems/Reverse input text/out/production/classes/
+/Problems/Robot/out/
+/Problems/Robot/out/production/classes/
+/Problems/Seconds since start of a day/out/
+/Problems/Seconds since start of a day/out/production/classes/
+/Problems/Serializable user/out/
+/Problems/Serializable user/out/production/classes/
+/Problems/Sum of divisors/out/
+/Problems/Sum of divisors/out/production/classes/
+/Problems/Template Method/out/
+/Problems/Template Method/out/production/classes/
+/Problems/Template Method (1)/out/
+/Problems/Template Method (1)/out/production/classes/
+/Problems/The first and the last day of a month/out/
+/Problems/The first and the last day of a month/out/production/classes/
+/Problems/The first element/out/
+/Problems/The first element/out/production/classes/
+/Problems/The last day of a month/out/
+/Problems/The last day of a month/out/production/classes/
+/Problems/The Range class/out/
+/Problems/The Range class/out/production/classes/
